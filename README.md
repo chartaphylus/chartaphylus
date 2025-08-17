@@ -6,12 +6,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=33C7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+M.K%20Bahtiar;A+passionate+Software%20Engineer;From+Kota%20Bima" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=33C7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+M.K%20Bahtiar;A+passionate+Programmer;From+Kota%20Bima" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/khafid-bahtiar" target="_blank">
+  <a href="https://linkedin.com/in/m-khafid-bahtiar-908b26303" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mkhafid.work@gmail.com" target="_blank">
