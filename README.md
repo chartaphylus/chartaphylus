@@ -1,100 +1,92 @@
-## Hi there 👋
+<div align="center">
+  <!-- Dynamic Animated Header Banner (Transparent SVG) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=M.%20Khafid%20Bahtiar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBobjY5bHY0aHh6dTgxY3R6N2pndTRsdzlzYzNvMGd4aXVodjdhciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="50%">
-</p>
-
-<h1 align="center">
+  <!-- Typing SVG Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=33C7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+M.K%20Bahtiar;A+passionate+Programmer;From+Kota%20Bima" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Mobile+%26+Web+Developer;Education+Mentor+%26+IT+Instructor;Building+impactful+tech+solutions..." alt="Typing SVG" />
   </a>
-</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/m-khafid-bahtiar-908b26303" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mkhafid.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/m-khafid-bahtiar-908b26303" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:mkhafid.work@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+</div>
 
-<hr>
+<br />
 
-<h2 align="center">🚀 About Me & Skills</h2>
+## 🚀 About Me
 
-<table>
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <p>
-        - 🔭 I’m currently working as an IT teacher at a senior high school, teaching graphic design, computer networking, and mobile programming.
-        <br><br>
-        - 🌱 I’m currently learning advanced Flutter (with Riverpod), Laravel for web development, and modern networking concept.
-        <br><br>
-        - 👯 I’m looking to collaborate on educational tech projects, mobile-first apps, or creative tools for students.
-        <br><br>
-        - 🤔 I’m looking for help with building scalable apps, implementing clean architecture in Flutter, and integrating real-world networking into classroom projects.
-        <br><br>
-        - 💬 Ask me about Flutter development, UI/UX design, teaching tech to teens, and setting up basic computer networks.
-        <br><br>
-        - 😄 Fun fact: I once combined design and code to create a student portfolio app—and now my class uses it to showcase their work!.
-      </p>
+    <td width="60%" valign="top">
+      <p>👋 Hi! I'm a <b>Software Engineer</b> and <b>IT Education Mentor</b> passionate about building clean, scalable applications and empowering the next generation of tech talent.</p>
+      <ul>
+        <li>🔭 <b>Focus:</b> Mobile application engineering, modern web architectures, and IT curriculum development.</li>
+        <li>🌱 <b>Currently Deep-Diving:</b> Advanced Flutter state management (Riverpod), Next.js/Laravel ecosystems, and network infrastructure.</li>
+        <li>👯 <b>Collaboration:</b> Open to EdTech platforms, cross-platform mobile apps, and open-source developer tools.</li>
+        <li>💬 <b>Let's Talk About:</b> Flutter, Clean Architecture, Web Dev, UI/UX, or IT mentorship.</li>
+      </ul>
     </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Languages and Tools:</h3>
-        <p align="center">
-          <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="120" height="auto"/>
-          </a>
-          &nbsp; 
-          <a href="https://dart.dev" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="120" height="auto"/>
-          </a>
-          &nbsp; 
-          <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original.svg" alt="laravel" width="120" height="auto"/>
-          </a>
-          &nbsp; 
-          <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="120" height="auto"/>
-          </a>
-          &nbsp; 
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="120" height="auto"/>
-          </a>
-          &nbsp; 
-          <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="120" height="auto"/>
-          </a>
-          &nbsp; 
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="auto"/>
-          </a>
-          &nbsp; 
-          <a href="https://postman.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="120" height="auto"/>
-          </a>
-        </p>
-      </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chartaphylus&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
-<hr>
+---
 
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chartaphylus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br><br><br><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chartaphylus&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-  <br><br><br><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chartaphylus&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<hr>
-
-<h2 align="center">🐍 My Contribution Snake</h2>
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chartaphylus/chartaphylus/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <br />
+  <!-- Frameworks & Libs -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <br />
+  <!-- Databases & Infrastructure -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=chartaphylus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chartaphylus&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chartaphylus/chartaphylus/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
